@@ -1,6 +1,6 @@
 {
   "name": "jasmine-protractor-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Jasmine reporters for use with Protractor",
   "main": "lib/index.js",
   "repository": "https://github.com/rubenv/jasmine-protractor-reporter",
