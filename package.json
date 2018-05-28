@@ -2,11 +2,16 @@
   "name": "jasmine-protractor-reporter",
   "version": "1.0.0",
   "description": "Jasmine reporters for use with Protractor",
-  "main": "index.js",
+  "main": "lib/index.js",
   "repository": "https://github.com/rubenv/jasmine-protractor-reporter",
   "author": "Ruben Vermeersch <ruben@rocketeer.be>",
   "license": "MIT",
   "dependencies": {
     "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.2",
+    "grunt-bump": "^0.8.0",
+    "grunt-contrib-jshint": "^1.1.0"
   }
 }
